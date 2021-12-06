@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkoxwm_net=self.webpackChunkoxwm_net||[]).push([[513],{4851:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var a=n(2784),l=n(318);function c(){return a.createElement(l.Z,{page:"voice",subtitle:"お客様の声",subtitleEn:"VOICE"},a.createElement("main",{className:"l-main"},a.createElement("div",{class:"wp-wrap-post"},a.createElement("p",null,"ただいま準備中です。"))))}}}]);
+//# sourceMappingURL=component---src-pages-voice-js-3de43bd2c2038c5b2cd2.js.map
