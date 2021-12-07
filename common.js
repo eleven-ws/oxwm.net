@@ -72,6 +72,7 @@ GLOBALSITE.COMMON.UA_CLASS = {
     var e = $('body'),
       i = $('.js-gnav-switch'),
       t = 'is-gnav-open';
+
     if (!i.length) return !1;
     e.append('<div class="l-overlay js-overlay"></div>'),
       i.click(function (i) {
