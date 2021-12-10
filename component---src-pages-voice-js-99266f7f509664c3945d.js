@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkoxwm_net=self.webpackChunkoxwm_net||[]).push([[513],{4851:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var a=n(2784),l=n(5196);function c(){return a.createElement(l.Z,{page:"voice",subtitle:"お客様の声",subtitleEn:"VOICE",breadcrumbs:[{link:"/voice/",label:"お客様の声"}]},a.createElement("main",{className:"l-main"},a.createElement("div",{className:"wp-wrap-post"},a.createElement("p",null,"ただいま準備中です。"))))}}}]);
+//# sourceMappingURL=component---src-pages-voice-js-99266f7f509664c3945d.js.map
