@@ -93,6 +93,7 @@ GLOBALSITE.COMMON.UA_CLASS = {
 }),
   (GLOBALSITE.COMMON.LOCATION_CHECK = {
     init: function () {
+      return; // @TODO
       var i = '#menu-gnav',
         n = location.pathname.split('/'),
         e = n[1];
