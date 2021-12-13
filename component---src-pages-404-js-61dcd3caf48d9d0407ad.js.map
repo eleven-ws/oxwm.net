@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-61dcd3caf48d9d0407ad.js","mappings":"oKAEe,SAASA,IACtB,OAAO","sources":["webpack://oxwm.net/./src/pages/404.js"],"sourcesContent":["import React from 'react';\n\nexport default function Component() {\n  return <h1>404</h1>;\n}\n"],"names":["Component"],"sourceRoot":""}
