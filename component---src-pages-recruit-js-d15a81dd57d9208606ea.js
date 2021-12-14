@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkoxwm_net=self.webpackChunkoxwm_net||[]).push([[771],{2340:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var a=n(2784),r=n(8515);function l(){return a.createElement(r.Z,{page:"recruit",subtitle:"採用情報",subtitleEn:"RECRUIT",breadcrumbs:[{link:"/recruit/",label:"採用情報"}]},a.createElement("main",{className:"l-main"},a.createElement("div",{className:"wp-wrap-post"},a.createElement("p",null,"ただいま募集しておりません。"))))}}}]);
+//# sourceMappingURL=component---src-pages-recruit-js-d15a81dd57d9208606ea.js.map
