@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkoxwm_net=self.webpackChunkoxwm_net||[]).push([[835],{7600:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var a=n(2784),r=n(917);function l(){return a.createElement(r.Z,{page:"beforeafter",subtitle:"ビフォーアフター",subtitleEn:"BEFORE AFTER",breadcrumbs:[{link:"/beforeafter/",label:"ビフォーアフター"}]},a.createElement("main",{className:"l-main"},a.createElement("div",{className:"wp-wrap-post"},a.createElement("p",null,"ただいま準備中です。"))))}}}]);
-//# sourceMappingURL=component---src-pages-beforeafter-js-6f2f2ae649434fbcf505.js.map

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"pageContext":{}},
-    "staticQueryHashes": []}
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"slug":"/news/2/","date":"2022/03/01","title":"オキシウムがパーソナルジムの口コミサイト Getfit で紹介されました！"}}},{"node":{"frontmatter":{"slug":"/news/1/","date":"2021/05/31","title":"ホームページをリニューアルいたしました。"}}}]}},"pageContext":{}},
+    "staticQueryHashes": ["1942088059"]}
