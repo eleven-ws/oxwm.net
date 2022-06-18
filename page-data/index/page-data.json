@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-pages-index-js",
-    "path": "/",
-    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"slug":"/news/2/","date":"2022/03/01","title":"オキシウムがパーソナルジムの口コミサイト Getfit で紹介されました！"}}},{"node":{"frontmatter":{"slug":"/news/1/","date":"2021/05/31","title":"ホームページをリニューアルいたしました。"}}}]}},"pageContext":{}},
-    "staticQueryHashes": ["1942088059"]}
+{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"slug":"/news/3/","date":"2022/06/17","title":"オキシウムがクリエイタークリップで紹介されました！"}}},{"node":{"frontmatter":{"slug":"/news/2/","date":"2022/03/01","title":"オキシウムがパーソナルジムの口コミサイト Getfit で紹介されました！"}}},{"node":{"frontmatter":{"slug":"/news/1/","date":"2021/05/31","title":"ホームページをリニューアルいたしました。"}}}]}},"pageContext":{}},"staticQueryHashes":["1942088059"]}
